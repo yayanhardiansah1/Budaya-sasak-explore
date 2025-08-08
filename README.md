@@ -12,7 +12,7 @@ Kami menyediakan:
 
 📍 Berbasis di Lombok  
 📞 WhatsApp: [0821-4451-4996](https://wa.me/6282144514996)  
-🌐 [Kunjungi Website](https://yayanhardiansah1.github.io/sasak-explore-time-/)
+🌐 [Kunjungi] https://yayanhardiansah1.github.io/Budaya-sasak-explore/
 
 ---
 > 🌟 Jelajahi Lombok dengan layanan lokal terpercaya!
