@@ -11,7 +11,11 @@ Kami menyediakan:
 - 🕌 Wisata Religi & Budaya
 
 📍 Berbasis di Lombok  
-📞 WhatsApp: [0821-4451-4996](https://wa.me/6282144514996)  
+📞 WhatsApp: [0821-4451-4996]<!-- Tombol WhatsApp Baru -->
+<a href="https://wa.me/6282144514996" target="_blank" rel="noopener noreferrer">
+  Chat via WhatsApp
+</a>
+
 🌐 [Kunjungi] https://yayanhardiansah1.github.io/Budaya-sasak-explore/
 
 ---
